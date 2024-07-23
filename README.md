@@ -5,6 +5,7 @@ Introducing ForeCastIQ 🚀 Your Weather Wizard - your go-to companion for all t
 This project typically involves the development of a software application 🛠 that retrieves and displays weather-related information to users .The User Interface section showcases the current weather conditions such as temperature, humidity, wind speed, and direction, often accompanied by icons or graphics depicting the weather.
 
 Utilizes weather APIs (such as OpenWeatherMap) to fetch weather data like current conditions, forecasts, and historical weather information. Uses GPS or IP-based location detection to determine the user's location📍if allowed and fetch weather data accordingly.
+
 ![ForecastIQ](https://github.com/Vaibhav15Rj/ForeCastIQ/blob/main/ForeCastIQ.png)
 
 Here is the Link: https://liveweatheriq.netlify.app/
