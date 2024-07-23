@@ -7,6 +7,7 @@ This project typically involves the development of a software application 🛠 t
 Utilizes weather APIs (such as OpenWeatherMap) to fetch weather data like current conditions, forecasts, and historical weather information. Uses GPS or IP-based location detection to determine the user's location📍if allowed and fetch weather data accordingly.
 ![ForecastIQ](https://github.com/Vaibhav15Rj/ForeCastIQ/blob/main/ForeCastIQ.png)
 
+Here is the Link: https://liveweatheriq.netlify.app/
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
