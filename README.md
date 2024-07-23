@@ -1,6 +1,6 @@
 # ForeCastIQ-
 
-Introducing ForeCastIQ 🚀 Your Weather Wizard - your go-to companion for all things weather-related. With Climate Canvas, stay one step ahead of the elements with precise forecasts tailored to your location.
+Introducing ForeCastIQ 🚀 Your Weather Wizard - your go-to companion for all things weather-related. With ForeCastIQ, stay one step ahead of the elements with precise forecasts tailored to your location.
 
 This project typically involves the development of a software application 🛠 that retrieves and displays weather-related information to users .The User Interface section showcases the current weather conditions such as temperature, humidity, wind speed, and direction, often accompanied by icons or graphics depicting the weather.
 
